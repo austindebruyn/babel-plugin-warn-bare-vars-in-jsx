@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Warns you when you forget to enclose variables in {} while writing JSX.",
   "main": "index.js",
-  "dependencies": {
-    "babel-preset-es2015": "^6.3.13",
-    "babel-preset-react": "^6.3.13"
-  },
+  "keywords": [
+    "babel",
+    "jsx",
+    "react"
+  ],
   "author": "Austin deBruyn",
   "license": "MIT"
 }
